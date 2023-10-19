@@ -2,7 +2,7 @@ package org.lukaswais;
 
 public class Calculator {
     public static double add(double x, double y) {
-        return x + y;
+        return x + y + 100;
     }
 
     public static double subtract(double x, double y) {
