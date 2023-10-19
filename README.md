@@ -7,4 +7,4 @@
 - Add a badge for it.
 - Fail one of them and check the badges.
 
-![GITHUB-BADGE](https://github.com/CODERS-BAY/aufgabe-8-ci-felix368/blob/master/.github/workflows/ubuntu-run-tests.yml/badge.svg)
+[![Java CI](https://github.com/CODERS-BAY/aufgabe-8-ci-felix368/actions/workflows/ubuntu-run-tests.yml/badge.svg)](https://github.com/CODERS-BAY/aufgabe-8-ci-felix368/actions/workflows/ubuntu-run-tests.yml)
